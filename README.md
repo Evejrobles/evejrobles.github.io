@@ -23,8 +23,8 @@ Garden Boxes- balance both creative and logical sides
 
 
 
-Why - provide a comfortable life for my family and myself 
-How- coding skills, education, experience
+Why - provide a comfortable life for my family and myself                                                                        
+How- coding skills, education, experience                                                                                       
 What - Working for a  great Company 
  
 Hi my name is Eve. I’m a software developer.  I’m looking for a great company to work for to provide a comfortable life for myself and my Family.  Im doing this in partnership with Deep dive coding by gaining the skills to make me marketable in the Tech field.  Are you hiring? 
