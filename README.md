@@ -1,4 +1,6 @@
 # EvejRobles Pro Dev
+
+[Resume](EveRoblesResume2018.pdf)
 ## Qualitative/Quantitative
 Managed  $2M account base.  
 Increased sales $500K.                                                                                                          
