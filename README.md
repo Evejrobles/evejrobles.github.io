@@ -36,7 +36,12 @@ Hi my name is Eve. I’m a software developer.  I’m looking for a great compan
 
 Applied reaserch Associates https://www.ara.com 
 
+This company appeals to me because helps solve clean energy needs for other companies.
+
+
 Faith comes by Hearing (non profit)  https://www.faithcomesbyhearing.com/about/careers 
+
+This company appeals to me because it deals with my faith. 
 
 I expect to make $45K- $55K first year of employment. 
 
