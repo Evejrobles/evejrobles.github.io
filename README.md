@@ -32,7 +32,18 @@ What - Working for a  great Company
 Hi my name is Eve. I’m a software developer.  I’m looking for a great company to work for to provide a comfortable life for myself and my Family.  I'm doing this in partnership with Deep dive coding by gaining the skills to make me marketable in the Tech field.  Are you hiring? 
      
 [StoveTop](StoveTop.pdf)
+
+
+Applied reaserch Associates https://www.ara.com 
+
+Faith comes by Hearing (non profit)  https://www.faithcomesbyhearing.com/about/careers 
+
+I expect to make $45K- $55K first year of employment. 
+
   
   # Weekly Reflection 
-  This week I'm acknowledging how difficult it is to get into the school/homework/life routine.  Also, have to admit that my typing speed needs to improve. Loving the camaraderie and learning some coding concepts!
+  Week 1: This week I'm acknowledging how difficult it is to get into the school/homework/life routine.  Also, have to admit that my typing speed needs to improve. Loving the camaraderie and learning some coding concepts!
+  
+  Week2: This week was excited to build a game in andriod. Took first quiz and realized I needed to study more. Getting some lunch time tutoring is helping me to understand some coding concepts.
+  
      
