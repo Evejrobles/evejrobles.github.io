@@ -34,13 +34,13 @@ Hi my name is Eve. I’m a software developer.  I’m looking for a great compan
 [StoveTop](StoveTop.pdf)
 
 
-### Applied research Associates https://www.ara.com 
+### [Applied research Associates](https://www.ara.com) 
 Phone: 505-881-8074 couldnt find contact person.
 
 This company appeals to me because helps solve clean energy needs for other companies.
 
 
-### Faith comes by Hearing (non profit)  https://www.faithcomesbyhearing.com/about/careers 
+### [Faith comes by Hearing (non profit)](https://www.faithcomesbyhearing.com/about/careers) 
 
 This company appeals to me because it deals with my faith. 
 
