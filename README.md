@@ -48,6 +48,10 @@ I expect to make $45K- $55K first year of employment.
 
 ### [Online Identity](Identity.pdf)
 
+### [Career Pics](careers.jpg) 
+
+The top pic represents my career now. Worked in the Horticulture/Agricultue field. Pic shows fields not producing which correlates to my current career. Bottom pic shows where I want to be in three years. Working at a desk..possibly in Europe..  cash flowing.  My plan to bridge the gap: work hard, learn multiple programing languages and software platforms, network,   advance my career in the tech field, and grow continuously. 
+
   
   # Weekly Reflection 
   Week 1: This week I'm acknowledging how difficult it is to get into the school/homework/life routine.  Also, have to admit that my typing speed needs to improve. Loving the camaraderie and learning some coding concepts!
