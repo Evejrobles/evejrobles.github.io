@@ -1,6 +1,6 @@
 # EvejRobles Pro Dev
 
-[Resume](EveRobles3Resume2018.pdf)
+### [Resume](EveRobles3Resume2018.pdf)
 ## Qualitative/Quantitative
 Managed  $2M account base.  
 Increased sales $500K.                                                                                                          
@@ -31,7 +31,7 @@ What - Working for a  great Company
  
 Hi my name is Eve. I’m a software developer.  I’m looking for a great company to work for to provide a comfortable life for myself and my Family.  I'm doing this in partnership with Deep dive coding by gaining the skills to make me marketable in the Tech field.  Are you hiring? 
      
-[StoveTop](StoveTop.pdf)
+### [StoveTop](StoveTop.pdf)
 
 
 ### [Applied Research Associates](https://www.ara.com) 
@@ -45,6 +45,8 @@ This company appeals to me because helps solve clean energy needs for other comp
 This company appeals to me because it deals with my faith. 
 
 I expect to make $45K- $55K first year of employment. 
+
+### [Online Identity](Identity.pdf)
 
   
   # Weekly Reflection 
