@@ -52,4 +52,6 @@ I expect to make $45K- $55K first year of employment.
   
   Week2: This week was excited to build a game in andriod. Took first quiz and realized I needed to study more. Getting some lunch time tutoring is helping me to understand some coding concepts.
   
+  Week 3: This week we were introduced to Salesforce. It seems like there are alot of job opportunities with learning Salesforce. We also finalized personal android projects and voted on Capstone projects. Excited to start both. 
+  
      
