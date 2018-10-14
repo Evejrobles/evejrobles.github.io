@@ -35,7 +35,7 @@ Hi my name is Eve. I’m a software developer.  I’m looking for a great compan
 
 
 ### [Applied Research Associates](https://www.ara.com) 
-Phone: 505-881-8074 couldnt find contact person.
+Phone: 505-881-8074 couldn't find contact person.
 
 This company appeals to me because helps solve clean energy needs for other companies.
 
