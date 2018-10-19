@@ -52,6 +52,8 @@ I expect to make $45K- $55K first year of employment.
 
 The top pic represents my career now. Worked in the Horticulture/Agricultue field. Pic shows fields not producing which correlates to my current career. Bottom pic shows where I want to be in three years. Working at a desk..possibly in Europe..  cash flowing.  My plan to bridge the gap: work hard, learn multiple programing languages and software platforms, network,   advance my career in the tech field, and grow continuously. 
 
+### [Ground Rules](code of conduct.md)
+
 
 ### Game Reflection
 
