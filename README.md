@@ -52,6 +52,11 @@ I expect to make $45K- $55K first year of employment.
 
 The top pic represents my career now. Worked in the Horticulture/Agricultue field. Pic shows fields not producing which correlates to my current career. Bottom pic shows where I want to be in three years. Working at a desk..possibly in Europe..  cash flowing.  My plan to bridge the gap: work hard, learn multiple programing languages and software platforms, network,   advance my career in the tech field, and grow continuously. 
 
+
+### Game Reflection
+
+As a team we did very well. I noticed that we communicated well. We talked out strategies for success and implemented them. We won both times we played. We even tried to make it harder on ourselves by setting the water level higher to start. It was a super fun activity!
+
   
   # Weekly Reflection 
   Week 1: This week I'm acknowledging how difficult it is to get into the school/homework/life routine.  Also, have to admit that my typing speed needs to improve. Loving the camaraderie and learning some coding concepts!
@@ -59,5 +64,7 @@ The top pic represents my career now. Worked in the Horticulture/Agricultue fiel
   Week2: This week was excited to build a game in andriod. Took first quiz and realized I needed to study more. Getting some lunch time tutoring is helping me to understand some coding concepts.
   
   Week 3: This week we were introduced to Salesforce. It seems like there are alot of job opportunities with learning Salesforce. We also finalized personal android projects and voted on Capstone projects. Excited to start both. 
+  
+  Week 4: This week we formed our Capstone groups. Very excited to be working on the Mobile Punch Project. We also took the first part of our first exam. Happy to say I did better than I thought I would!  
   
      
