@@ -69,4 +69,7 @@ As a team we did very well. I noticed that we communicated well. We talked out s
   
   Week 4: This week we formed our Capstone groups. Very excited to be working on the Mobile Punch Project. We also took the first part of our first exam. Happy to say I did better than I thought I would!  
   
+  Week 5: This week I finished up the Drawing portion of my personal project now need to figure out how to get the coloring book part working.
+  
+  Week 6: This week we started getting the entities fleshed out for Mobil Punch App front end.  Happy to say that my typing speed is improving.
      
