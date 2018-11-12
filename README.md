@@ -59,6 +59,11 @@ The top pic represents my career now. Worked in the Horticulture/Agricultue fiel
 
 As a team we did very well. I noticed that we communicated well. We talked out strategies for success and implemented them. We won both times we played. We even tried to make it harder on ourselves by setting the water level higher to start. It was a super fun activity!
 
+### Networking Connections 1000000 Cups
+I met Stephanie Gretchen who is a life coach and retreat leader. We chatted about how she got into life coaching. I also met Paul Szauter. He is the Chief Scientific Officer for Equiseq. They are a horse breedind organization.
+
+
+I noticed that there were a lot of banners advertizing different companies. Also, the white board upfront had company sponsers advertized.
   
   # Weekly Reflection 
   Week 1: This week I'm acknowledging how difficult it is to get into the school/homework/life routine.  Also, have to admit that my typing speed needs to improve. Loving the camaraderie and learning some coding concepts!
@@ -73,3 +78,4 @@ As a team we did very well. I noticed that we communicated well. We talked out s
   
   Week 6: This week we started getting the entities fleshed out for Mobil Punch App front end.  Happy to say that my typing speed is improving.
      
+  Week 7: This week we went to 1000000 cups to do a networking exercise. I met a couple of people who were gracious and gave me words of encouragement.  
